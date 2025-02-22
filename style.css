@@ -8,6 +8,10 @@ text-align: center;
  display: flex;
  justify-content: space-around;
 }
+.navbar a{
+    font-size: large;
+    text-decoration: none;
+}
 
 .home-content-div{
     text-align: center;
