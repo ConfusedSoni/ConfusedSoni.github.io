@@ -6,6 +6,9 @@ text-align: center;
      background-color: rgb(24, 155, 204);
      text-align: center;
 }
+.favorite-content-div{
+     font-family: 'Franklin Gothic Medium'
+}
 
 .navbar{
  background-color: aliceblue;
@@ -14,12 +17,14 @@ text-align: center;
 }
 .navbar a{
     font-size: large;
+    font-family: 'Franklin Gothic Medium';
     text-decoration: none;
 }
+  
 
 .home-content-div{
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium'
 }
 .home-content-div p{
     font-size: small;
