@@ -9,6 +9,14 @@ text-align: center;
 .favorite-content-div{
      font-family: 'Franklin Gothic Medium'
 }
+.images-page{
+    background-color: rgb(24, 155, 204);
+    text-align: center;
+}
+.images-content{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
 
 .navbar{
  background-color: aliceblue;
