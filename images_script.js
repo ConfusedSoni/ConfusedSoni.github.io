@@ -19,6 +19,12 @@ const imageGallery = [
     "https://i.redd.it/47ixhl5xmvnb1.jpg",
     "https://preview.redd.it/whats-the-hardest-kanye-picture-of-all-time-v0-mbzvvj8zddjc1.jpeg?width=320&crop=smart&auto=webp&s=6dfd34a5ea6ef0988e963ed6dee8919437b091d5",
     "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/16/19/Tupac.jpg",
+    "https://imgix.bustle.com/uploads/image/2024/10/3/7d0a7194/wmagvol52024coverasaprockybyrihannargbhr.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+    "https://sneakerbardetroit.com/wp-content/uploads/2021/01/J.Cole-Dreamer-2-1068x712.jpg",
+    "https://i.ytimg.com/vi/wXWoTJpuVhU/mqdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoUIL6Uefda18i8f0g89U5QUDMoKpvbMhkEw&s",
+    "https://preview.redd.it/sza-reveals-that-nobody-gets-me-and-low-were-hard-songs-to-v0-6nvmremxbyea1.jpg?width=1080&crop=smart&auto=webp&s=1837e1fb20cbf8f059fadbec7a2b3baaaecb3fc8",
+    "https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053",
 ]
 
 const imageElement = document.getElementById("gallery-image");
