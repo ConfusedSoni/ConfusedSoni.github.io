@@ -20,3 +20,9 @@ const imageGallery = [
     "https://preview.redd.it/whats-the-hardest-kanye-picture-of-all-time-v0-mbzvvj8zddjc1.jpeg?width=320&crop=smart&auto=webp&s=6dfd34a5ea6ef0988e963ed6dee8919437b091d5",
     "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/16/19/Tupac.jpg",
 ]
+
+const imageElement = document.getElementById("gallery-image");
+const prevButton = document.getElementById(id="prev-btn");
+const nextButton = document.getElementById(id="next-btn");
+
+let currentImgIndex = 0;
